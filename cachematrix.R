@@ -1,3 +1,7 @@
+## R Programming, Programming Assignment #2
+## By Matthew Mettler
+## Current status: 0% complete, first commit
+
 ## Put comments here that give an overall description of what your
 ## functions do
 
